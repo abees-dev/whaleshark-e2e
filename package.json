@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^13.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "qs": "^6.11.2",
+    "typescipt": "^1.0.0",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.3",
+    "@types/lodash": "^4.14.198",
+    "@types/qs": "^6.9.8",
+    "tsconfig-paths": "^4.2.0"
+  }
+}

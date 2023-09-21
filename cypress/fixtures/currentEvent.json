@@ -1,0 +1,129 @@
+[
+  {
+    "id": 112,
+    "siteId": 8,
+    "penId": null,
+    "eventType": "BAD_TILT",
+    "metadata": {
+      "notes": {
+        "en": "",
+        "es": "",
+        "nb": "",
+        "internal": ""
+      },
+      "method": "",
+      "vesselName": ""
+    },
+    "createdAt": "2023-08-23T03:33:28.350Z",
+    "updatedAt": "2023-08-23T03:33:28.350Z",
+    "isInternalOnly": false,
+    "eventState": "manual",
+    "createdBy": 1,
+    "lastUpdatedBy": null,
+    "closedBy": null,
+    "alertFingerprint": null,
+    "silenceId": null,
+    "startedAtInTimezone": "2023-08-20T00:00:00",
+    "endedAtInTimezone": null
+  },
+  {
+    "siteId": 8,
+    "penId": 68,
+    "eventType": "WELLBOAT_TREATMENT",
+    "metadata": {
+      "allEffect": -0.93,
+      "femaleEffect": -0.95,
+      "movingEffect": -0.93,
+      "fixedEffect": -0.91,
+      "scottishFemaleEffect": -0.94,
+      "method": "Optilicer",
+      "vesselName": "Seilus",
+      "notes": {
+        "nb": "Blei holdt ca 2 timer ekstra inne i brønnbåten før den blei behandla ut igjen.",
+        "en": "Kept the fish 2 hours extra inside the wellboat before being treated again."
+      }
+    },
+    "startedAtInTimezone": "2023-09-08T00:00:00",
+    "endedAtInTimezone": "2023-09-09T23:59:59"
+  },
+  {
+    "siteId": 8,
+    "penId": 76,
+    "eventType": "WELLBOAT_TREATMENT",
+    "metadata": {
+      "allEffect": -0.93,
+      "femaleEffect": -0.95,
+      "movingEffect": -0.93,
+      "fixedEffect": -0.91,
+      "scottishFemaleEffect": -0.94,
+      "method": "Optilicer",
+      "vesselName": "Seilus",
+      "notes": {
+        "nb": "Blei holdt ca 2 timer ekstra inne i brønnbåten før den blei behandla ut igjen.",
+        "en": "Kept the fish 2 hours extra inside the wellboat before being treated again."
+      }
+    },
+    "startedAtInTimezone": "2023-09-08T00:00:00",
+    "endedAtInTimezone": "2023-09-09T23:59:59"
+  },
+  {
+    "siteId": 8,
+    "penId": 77,
+    "eventType": "WELLBOAT_TREATMENT",
+    "metadata": {
+      "allEffect": -0.93,
+      "femaleEffect": -0.95,
+      "movingEffect": -0.93,
+      "fixedEffect": -0.91,
+      "scottishFemaleEffect": -0.94,
+      "method": "Optilicer",
+      "vesselName": "Seilus",
+      "notes": {
+        "nb": "Blei holdt ca 2 timer ekstra inne i brønnbåten før den blei behandla ut igjen.",
+        "en": "Kept the fish 2 hours extra inside the wellboat before being treated again."
+      }
+    },
+    "startedAtInTimezone": "2023-09-08T00:00:00",
+    "endedAtInTimezone": "2023-09-09T23:59:59"
+  },
+  {
+    "siteId": 8,
+    "penId": 78,
+    "eventType": "WELLBOAT_TREATMENT",
+    "metadata": {
+      "allEffect": -0.93,
+      "femaleEffect": -0.95,
+      "movingEffect": -0.93,
+      "fixedEffect": -0.91,
+      "scottishFemaleEffect": -0.94,
+      "method": "Optilicer",
+      "vesselName": "Seilus",
+      "notes": {
+        "nb": "Blei holdt ca 2 timer ekstra inne i brønnbåten før den blei behandla ut igjen.",
+        "en": "Kept the fish 2 hours extra inside the wellboat before being treated again."
+      }
+    },
+    "startedAtInTimezone": "2023-09-08T00:00:00",
+    "endedAtInTimezone": "2023-09-09T23:59:59"
+  },
+  {
+    "siteId": 8,
+    "penId": 1154,
+    "eventType": "WELLBOAT_TREATMENT",
+    "metadata": {
+      "allEffect": -0.93,
+      "femaleEffect": -0.95,
+      "movingEffect": -0.93,
+      "fixedEffect": -0.91,
+      "scottishFemaleEffect": -0.94,
+      "method": "Optilicer",
+      "vesselName": "Seilus",
+      "notes": {
+        "nb": "Blei holdt ca 2 timer ekstra inne i brønnbåten før den blei behandla ut igjen.",
+        "en": "Kept the fish 2 hours extra inside the wellboat before being treated again."
+      }
+    },
+    "startedAtInTimezone": "2023-09-08T00:00:00",
+    "endedAtInTimezone": "2023-09-09T23:59:59"
+  }
+]
