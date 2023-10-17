@@ -14,11 +14,6 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
-import { beforeAll } from './utils';
 import './commands';
 
-beforeEach(function () {
-  // eslint-disable-next-line cypress/no-unnecessary-waiting
-  cy.wait(1000);
-  beforeAll();
-});
+beforeEach(function () {});
